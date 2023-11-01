@@ -1,4 +1,3 @@
-//https://github.com/milon27/nestpress
 
 const router = require('express').Router();
 const bcrypt = require('bcrypt');
